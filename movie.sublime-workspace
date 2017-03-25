@@ -1,0 +1,1822 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"cat",
+				"catId"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"poster",
+				"poster_path"
+			],
+			[
+				"T",
+				"TMDb_get"
+			],
+			[
+				"sett",
+				"setting"
+			],
+			[
+				"a",
+				"ajax〔function〕"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"di",
+				"director\t(admin.jade)"
+			],
+			[
+				"json",
+				"jsonp"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"mo",
+				"movies"
+			],
+			[
+				"C",
+				"Category"
+			],
+			[
+				"come",
+				"commentId"
+			],
+			[
+				"to",
+				"toId"
+			],
+			[
+				"po",
+				"populate"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"co",
+				"comment"
+			],
+			[
+				"cont",
+				"contents\t.contents()"
+			],
+			[
+				"find",
+				"findById\t(movie.js)"
+			],
+			[
+				"comm",
+				"commentId"
+			],
+			[
+				"appen",
+				"appendTo\t.appendTo()"
+			],
+			[
+				"hid",
+				"hidden\t(detail.jade)"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"st",
+				"style=\"width\t(detail.jade)"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"_",
+				"_comment"
+			],
+			[
+				"si",
+				"signinRequired"
+			],
+			[
+				"com",
+				"comparePassword"
+			],
+			[
+				"metho",
+				"methods\t(user.js)"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"sign",
+				"signup"
+			],
+			[
+				"admin",
+				"adminRequired\t(routes.js)"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"show",
+				"showSignIn"
+			],
+			[
+				"l",
+				"list"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"sig",
+				"signin"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"db",
+				"dbUrl"
+			],
+			[
+				"User",
+				"UserSchema"
+			],
+			[
+				"is",
+				"isMatched"
+			],
+			[
+				"findBY",
+				"findByName"
+			],
+			[
+				"en",
+				"encrypting"
+			],
+			[
+				"conso",
+				"console.log()"
+			],
+			[
+				"use",
+				"userlist"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"sa",
+				"salt"
+			],
+			[
+				"wat",
+				"watch"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"live",
+				"livereload"
+			],
+			[
+				"consoe",
+				"console.log"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"movei",
+				"movieObj"
+			],
+			[
+				"post",
+				"poster"
+			],
+			[
+				"move",
+				"movieObj"
+			],
+			[
+				"movie",
+				"movieObj"
+			],
+			[
+				"ex",
+				"extend\t$.extend()"
+			],
+			[
+				"Movi",
+				"Movie"
+			],
+			[
+				"Mo",
+				"Movie"
+			],
+			[
+				"expr",
+				"exports\t(movie.js)"
+			],
+			[
+				"s",
+				"schemas/"
+			],
+			[
+				"MO",
+				"MovieSchema\t(movie.js)"
+			],
+			[
+				"MOvi",
+				"MovieSchema"
+			],
+			[
+				"upda",
+				"updatedAt"
+			],
+			[
+				"up",
+				"updatedAt"
+			],
+			[
+				"item",
+				"item-id"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"input",
+				"inuptTitle"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"prog",
+				"progress-view\t(main.js)"
+			],
+			[
+				"slect",
+				"selectTab"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"dele",
+				"deleteThis"
+			],
+			[
+				"new",
+				"newItem"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"change",
+				"changeState"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"num",
+				"num_edges"
+			],
+			[
+				"dis",
+				"Disjoint_set"
+			],
+			[
+				"des",
+				"destructor"
+			],
+			[
+				"wei",
+				"Weighted_graph.h"
+			],
+			[
+				"std",
+				"std::cout"
+			],
+			[
+				"DI",
+				"Disjoint_set"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"nu",
+				"num_nodes"
+			],
+			[
+				"set",
+				"set_info"
+			],
+			[
+				"ini",
+				"initialize"
+			],
+			[
+				"tot",
+				"total_dis"
+			],
+			[
+				"temp",
+				"temp_index"
+			],
+			[
+				"ed",
+				"edge_tested"
+			],
+			[
+				"larg",
+				"large_set"
+			],
+			[
+				"small",
+				"small_set"
+			],
+			[
+				"lar",
+				"large_set"
+			],
+			[
+				"smal",
+				"small_set"
+			],
+			[
+				"ptr",
+				"ptr_to_info"
+			],
+			[
+				"pt",
+				"ptr_to_info"
+			],
+			[
+				"node",
+				"nodes"
+			],
+			[
+				"se",
+				"sets"
+			],
+			[
+				"no",
+				"nodes"
+			],
+			[
+				"ill",
+				"illegal_argument"
+			],
+			[
+				"thr",
+				"throw\t(ece250.h)"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"return",
+				"return"
+			],
+			[
+				"resu",
+				"recurse"
+			],
+			[
+				"Trie",
+				"Trie_node"
+			],
+			[
+				"recur",
+				"recursively"
+			],
+			[
+				"nex",
+				"next_node"
+			],
+			[
+				"next",
+				"next_"
+			],
+			[
+				"arr",
+				"array_empty"
+			],
+			[
+				"null",
+				"nullptr"
+			],
+			[
+				"child",
+				"children"
+			],
+			[
+				"Tr",
+				"Trie"
+			],
+			[
+				"le",
+				"length\t(Trie.h)"
+			],
+			[
+				"m",
+				"member"
+			],
+			[
+				"va",
+				"valid_input"
+			],
+			[
+				"root",
+				"root_node"
+			],
+			[
+				"Tri",
+				"Trie_node"
+			],
+			[
+				"il",
+				"illegal_argument\t(Trie_tester.h)"
+			],
+			[
+				"char",
+				"charIndex"
+			],
+			[
+				"cahr",
+				"character"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/includes/header.jade",
+			"settings":
+			{
+				"buffer_size": 1883,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/index.js",
+			"settings":
+			{
+				"buffer_size": 1318,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/schemas/user.js",
+			"settings":
+			{
+				"buffer_size": 1362,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/pages/admin.jade",
+			"settings":
+			{
+				"buffer_size": 2327,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/movie.js",
+			"settings":
+			{
+				"buffer_size": 2657,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 222.0,
+		"last_filter": "sublimelinter sho",
+		"selected_items":
+		[
+			[
+				"sublimelinter sho",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"packr",
+				"Package Control: Remove Channel"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ja",
+				"Set Syntax: Jade"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"paci",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Build: New Build System"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"sy",
+				"Set Syntax: HTML"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"rai",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 611.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/hansen/node-learn/movie",
+		"/home/hansen/node-learn/movie/app",
+		"/home/hansen/node-learn/movie/app/controllers",
+		"/home/hansen/node-learn/movie/app/models",
+		"/home/hansen/node-learn/movie/app/schemas",
+		"/home/hansen/node-learn/movie/app/views",
+		"/home/hansen/node-learn/movie/app/views/includes",
+		"/home/hansen/node-learn/movie/app/views/pages",
+		"/home/hansen/node-learn/movie/config",
+		"/home/hansen/node-learn/movie/public",
+		"/home/hansen/node-learn/movie/public/js"
+	],
+	"file_history":
+	[
+		"/home/hansen/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/hansen/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/home/hansen/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/hansen/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/hansen/.config/sublime-text-3/Packages/Sublimerge 3/Sublimerge 3.sublime-settings",
+		"/home/hansen/node-learn/movie/app/views/pages/results.jade",
+		"/home/hansen/node-learn/movie/app/controllers/index.js",
+		"/home/hansen/node-learn/movie/app/controllers/movie.js",
+		"/home/hansen/node-learn/movie/public/js/admin.js",
+		"/home/hansen/node-learn/movie/app/views/pages/admin.jade",
+		"/home/hansen/node-learn/movie/config/routes.js",
+		"/home/hansen/node-learn/movie/app/views/pages/index.jade",
+		"/home/hansen/node-learn/movie/app/views/pages/list.jade",
+		"/home/hansen/node-learn/movie/app/views/pages/category_admin.jade",
+		"/home/hansen/node-learn/movie/app/schemas/category.js",
+		"/home/hansen/node-learn/movie/app/schemas/movie.js",
+		"/home/hansen/node-learn/movie/app/views/pages/categorylist.jade",
+		"/home/hansen/node-learn/movie/app/controllers/category.js",
+		"/home/hansen/node-learn/movie/app/models/category.js",
+		"/home/hansen/node-learn/movie/app/controllers/user.js",
+		"/home/hansen/node-learn/movie/app/views/layout.jade",
+		"/home/hansen/node-learn/movie/public/js/detail.js",
+		"/home/hansen/node-learn/movie/app/views/pages/detail.jade",
+		"/home/hansen/node-learn/movie/app/controllers/comment.js",
+		"/home/hansen/node-learn/movie/app.js",
+		"/home/hansen/node-learn/imooc/app/views/pages/detail.jade",
+		"/home/hansen/node-learn/movie/app/schemas/comment.js",
+		"/home/hansen/node-learn/movie/app/models/comment.js",
+		"/home/hansen/node-learn/movie/app/schemas/user.js",
+		"/home/hansen/node-learn/movie/app/views/includes/header.jade",
+		"/home/hansen/node-learn/movie/app/views/pages/signup.jade",
+		"/home/hansen/node-learn/movie/app/views/pages/signin.jade",
+		"/home/hansen/node-learn/movie/views/includes/header.jade",
+		"/home/hansen/hello.sh",
+		"/home/hansen/node-learn/movie/node_modules/underscore.string/helper/htmlEntities.js",
+		"/home/hansen/abc.sh",
+		"/etc/rc.local",
+		"/home/hansen/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/hansen/.config/sublime-text-3/Packages/JavaScript Completions/javascript_completions/JavaScript-Completions.sublime-settings",
+		"/home/hansen/node-learn/movie/models/user.js",
+		"/home/hansen/.config/sublime-text-3/Packages/User/Evaluate-JavaScript.sublime-settings",
+		"/home/hansen/.config/sublime-text-3/Packages/JavaScript Completions/evaluate_javascript/Evaluate-JavaScript.sublime-settings",
+		"/home/hansen/.config/sublime-text-3/Packages/User/JavaScript-Completions.sublime-settings",
+		"/home/hansen/node-learn/movie/views/layout.jade",
+		"/home/hansen/node-learn/movie/views/pages/detail.jade",
+		"/home/hansen/node-learn/movie/.bowerrc",
+		"/home/hansen/node-learn/movie/views/pages/list.jade",
+		"/home/hansen/node-learn/movie/views/pages/admin.jade",
+		"/home/hansen/node-learn/movie/schemas/movie.js",
+		"/home/hansen/node-learn/movie/views/pages/index.jade",
+		"/home/hansen/node-learn/movie/gruntfile.js",
+		"/home/hansen/node-learn/movie/views/includes/head.jade",
+		"/home/hansen/.config/sublime-text-3/Packages/JavaScript Completions/helper/helper.sublime-settings",
+		"/home/hansen/node-learn/movie/models/movie.js",
+		"/home/hansen/.ssh/config",
+		"/home/hansen/.ssh/known_hosts",
+		"/home/hansen/node-learn/movie/views/admin.jade",
+		"/home/hansen/node-learn/movie/views/detail.jade",
+		"/home/hansen/node-learn/movie/views/list.jade",
+		"/home/hansen/node-learn/movie/views/index.jade",
+		"/home/hansen/vue-learn/build/webpack.base.conf.js",
+		"/home/hansen/vue-learn/src/App.vue",
+		"/home/hansen/vue-learn/node_modules/webpack-hot-middleware/example/webpack.config.js",
+		"/home/hansen/vue-learn/src/components/todo.vue",
+		"/home/hansen/ECE_250_Project/testo/Weighted_graph.h",
+		"/home/hansen/ECE_250_Project/Project_4/test3.in",
+		"/home/hansen/ECE_250_Project/Project_4/Weighted_graph_tester.h",
+		"/home/hansen/ECE_250_Project/Project_4/ece250.h",
+		"/home/hansen/ECE_250_Project/Project_4/Tester.h",
+		"/home/hansen/ECE_250_Project/Project_4/Weighted_graph_driver.cpp",
+		"/home/hansen/ECE_250_Project/Project_4/Exception.h",
+		"/home/hansen/ECE_250_Project/test.c",
+		"/home/hansen/ECE_250_Project/Project_3/testA.in",
+		"/home/hansen/ECE_250_Project/Project_3/test.in",
+		"/home/hansen/ECE_250_Project/Project_3/Trie_node.h",
+		"/home/hansen/ECE_250_Project/Project_3/Trie_driver.cpp",
+		"/home/hansen/ECE_250_Project/Project_3/Trie_tester.h",
+		"/home/hansen/ECE_250_Project/Project_3/Trie_node_tester.h",
+		"/home/hansen/ECE_250_Project/Project_3/Trie.h",
+		"/home/hansen/ECE_250_Project/testo/Trie_node.h",
+		"/home/hansen/ECE_250_Project/upload.txt",
+		"/home/hansen/ECE_250_Project/Project_3/Tester.h",
+		"/home/hansen/ECE_250_Project/Project_2/test-int1.in",
+		"/home/hansen/ECE_250_Project/Project_2/test-double2.in",
+		"/home/hansen/ECE_250_Project/Project_2/test-int3.in",
+		"/home/hansen/ECE_250_Project/Project_2/test-int2.in",
+		"/home/hansen/ECE_250_Project/Project_2/test-double1.in",
+		"/home/hansen/ECE_250_Project/Project_3/Exception.h",
+		"/home/hansen/ECE_250_Project/Project_3/ece250.h",
+		"/home/hansen/ECE_250_Project/Project_3/test.out",
+		"/home/hansen/ECE_250_Project/Project_2/LinearHashTable.h",
+		"/home/hansen/ECE_250_Project/Project_2/Linear_hash_table_tester.h",
+		"/home/hansen/ECE_250_Project/Project_2/Linear_hash_table_int_driver.cpp",
+		"/home/hansen/ECE_250_Project/Project_1/.gitignore",
+		"/home/hansen/ECE_250_Project/Project_1/test.in",
+		"/home/hansen/ECE_250_Project/Project_2/ece250.h",
+		"/home/hansen/ECE_250_Project/Project_2/Tester.h",
+		"/home/hansen/ECE_250_Project/Project_2/test-double.in",
+		"/home/hansen/ECE_250_Project/Project_2/test-int.in",
+		"/home/hansen/ECE_250_Project/Project_1/Dynamic_deque_as_array.h",
+		"/home/hansen/ECE_250_Project/Project_2/Exception.h",
+		"/home/hansen/ECE_250_Project/Project_2/Linear_hash_table_double_driver.cpp",
+		"/home/hansen/ECE_250_Project/Project_1/test1.in",
+		"/home/hansen/ECE_250_Project/Project_1/Dynamic_deque_as_array_tester_file.cpp",
+		"/home/hansen/ECE_250_Project/Project_1/test2.in",
+		"/home/hansen/ECE_250_Project/Project_1/Dynamic_deque_as_array_tester.h",
+		"/home/hansen/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/hansen/ECE_250_Project/Project_1/Exception.h",
+		"/home/hansen/ECE_250_Project/Project_1/ece250.h",
+		"/home/hansen/ECE_250_Project/Project_1/Dynamic_deque_as_array_int_driver.cpp",
+		"/home/hansen/ECE_250_Project/Project_1/Tester.h",
+		"/home/hansen/ECE_250_Project/Project_1/test1.out",
+		"/home/hansen/ECE_250_Project/Project_1/test2.out",
+		"/home/hansen/applyboard/applyboard/app/assets/stylesheets/base/pages.scss",
+		"/home/hansen/applyboard/applyboard/app/assets/javascripts/about_us.js",
+		"/home/hansen/applyboard/applyboard/app/views/layouts/application.html.erb",
+		"/home/hansen/applyboard/applyboard/app/helpers/data_helper.rb",
+		"/home/hansen/applyboard/applyboard/app/views/schools/_schools_grid.html.erb",
+		"/home/hansen/applyboard/applyboard/app/controllers/schools_controller.rb",
+		"/home/hansen/react/a.cpp",
+		"/home/hansen/applyboard/applyboard/app/views/pages/home.html.erb",
+		"/home/hansen/applyboard/applyboard/app/views/pages/features.html.erb",
+		"/home/hansen/applyboard/applyboard/app/assets/javascripts/features.js",
+		"/home/hansen/applyboard/applyboard/app/controllers/pages_controller.rb",
+		"/home/hansen/applyboard/applyboard/app/views/schools/_publish_button.html.erb",
+		"/home/hansen/applyboard/applyboard/test/integration/home_quick_search_flows_test.rb",
+		"/home/hansen/applyboard/applyboard/app/models/school.rb",
+		"/home/hansen/applyboard/applyboard/test/integration/integration_tests_helper.rb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"/home/hansen/node-learn/movie/app/controllers"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"category",
+			"category.",
+			"cat",
+			"name",
+			"douban",
+			"radio",
+			"input",
+			"inputTitle",
+			"get",
+			"jsonp",
+			"}\"",
+			"#{",
+			"comment",
+			"Comment",
+			"category",
+			"comment",
+			"Comment",
+			"movie",
+			"movies",
+			"Movie",
+			"Movies",
+			"Movie",
+			"new",
+			"Movie",
+			"_movie",
+			"movie",
+			"comment",
+			"movie",
+			"title",
+			"inputTitle",
+			"inputCategory",
+			"inputTitle",
+			"inputVideo",
+			"inputTitle",
+			"inputVideo",
+			"inputTitle",
+			"inputPoster",
+			"inputTitle",
+			"t",
+			"inputSummary",
+			"inputTitle",
+			"inputLanguage",
+			"inputTitle",
+			"inputCountry",
+			"inputTitle",
+			"inputDirector",
+			"inputTitle",
+			"i",
+			"t",
+			"inputDirector",
+			"inputTitle",
+			"title",
+			"comment",
+			"Comment",
+			"movie",
+			"comment",
+			"Comment",
+			"commentId",
+			"itedm",
+			"item",
+			"this",
+			"to",
+			"360",
+			"allowFullScreen",
+			"User",
+			"_movie",
+			"movie",
+			"user",
+			"User",
+			"Movie",
+			"movie",
+			"Movie",
+			"comparePassword",
+			"signinRequired",
+			"Number",
+			"userlist",
+			"logout",
+			"footer",
+			"models",
+			"express",
+			"env",
+			"next",
+			"next()",
+			"ignor",
+			"disable ",
+			"y",
+			"true",
+			"mongodb",
+			"function",
+			"button",
+			"movies",
+			"Movie",
+			"movie",
+			"Movie",
+			"default",
+			"Close",
+			"name",
+			"signupName",
+			"signupPassword",
+			"name",
+			"Movie",
+			"poster",
+			"Poster",
+			"summary",
+			"true",
+			"sm-10",
+			"summarysummarysummarysummarysummarysummarysummarysummarysummarysummarysummarysummarysummarysummarysummarysummarysummarysummary",
+			"english",
+			"title",
+			"country",
+			"director",
+			"summary",
+			"movie",
+			"title",
+			"brief",
+			"director",
+			"' ",
+			"home",
+			"page",
+			"express",
+			"details",
+			"print",
+			"depth++",
+			"all",
+			"terminallllllllll",
+			"%",
+			"array",
+			"print"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"university_container",
+			"subtitle_with_leftline",
+			"title_with_leftline",
+			"title_with_underline",
+			"",
+			"checkbox",
+			"Student Success Team",
+			"\"\"",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/includes/header.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_helper.box_height": 20,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".jade",
+								"current_syntax": "Jade/Syntaxes/Jade",
+								"enabled": false,
+								"last_updated": 1490228653.32
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 132.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/controllers/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1318,
+								1318
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1317,
+										1318
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										450,
+										451
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_helper.box_height": 20,
+							"color_helper.color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "JavaScript/JavaScript",
+								"enabled": false,
+								"last_updated": 1490235658.36
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/schemas/user.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_helper.box_height": 20,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "JavaScript/JavaScript",
+								"enabled": false,
+								"last_updated": 1490235658.36
+							},
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 792.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/pages/admin.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								773,
+								773
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_helper.box_height": 20,
+							"color_helper.color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".jade",
+								"current_syntax": "Jade/Syntaxes/Jade",
+								"enabled": false,
+								"last_updated": 1490235658.36
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/controllers/movie.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										125,
+										126
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										104,
+										105
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_helper.box_height": 20,
+							"color_helper.color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "JavaScript/JavaScript",
+								"enabled": false,
+								"last_updated": 1490228653.32
+							},
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 660.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 165.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "movie.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"header",
+				"app/views/includes/header.jade"
+			],
+			[
+				"r",
+				"config/routes.js"
+			],
+			[
+				"admin",
+				"public/js/admin.js"
+			],
+			[
+				"html",
+				"node_modules/underscore.string/helper/htmlEntities.js"
+			],
+			[
+				"land",
+				"app/views/layouts/_landing_navbar.html.erb"
+			],
+			[
+				"pages",
+				"app/assets/stylesheets/base/pages.scss"
+			],
+			[
+				"quic",
+				"app/views/search/_quick_search.html.erb"
+			],
+			[
+				"categoryse",
+				"app/views/categories/_category_selection_section.html.erb"
+			],
+			[
+				"form",
+				"app/views/program_requirements/_form.html.erb"
+			],
+			[
+				"lan",
+				"app/assets/stylesheets/base/landing.scss"
+			],
+			[
+				"sta",
+				"app/jobs/statistics_generation_job_base.rb"
+			],
+			[
+				"_land",
+				"app/views/layouts/_landing_navbar.html.erb"
+			],
+			[
+				"nav",
+				"app/assets/stylesheets/base/navigation.scss"
+			],
+			[
+				"agent_",
+				"app/models/agent_information.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

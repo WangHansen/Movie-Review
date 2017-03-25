@@ -1,0 +1,31 @@
+extend ../layout
+
+block content
+	.container
+		.row
+			table.table.table-hover.table-bordered
+				thead
+					tr
+						th Movie Name
+						th Director
+						th Country
+						th Language
+						th Summary
+						th Insert time
+						th Check
+						th Update
+						th delete
+					tbody
+						each item in movies
+							tr(class="item-id-#{item._id}")
+								td #{item.title}
+								td #{item.director}
+								td #{item.country}
+								td #{item.language}
+								td #{item.summary}
+								td #{moment(item.meta.createdAt).format('MM/DD/YYYY')}
+								td: a(target="_blank", href="/movie/#{item._id}") check
+								td: a(target="_blank", href="/admin/movie/update/#{item._id}") update
+								td
+									button.btn.btn-danger.del(type="button", data-id="#{item._id}") delete
+	script(src="/js/admin.js")

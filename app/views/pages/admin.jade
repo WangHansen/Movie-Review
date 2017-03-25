@@ -1,0 +1,57 @@
+extend ../layout
+
+block content
+	.container
+		.row
+			form.form-horizontal(method="post", action="/admin/movie")
+				if movie._id
+					input(type="hidden", name="movie[_id]", value=movie._id)
+				.form-group
+					label.col-sm-3.control-label The Movie Database Sync
+					.col-sm-4
+						input#TMDb.form-control(type="text") 
+				.form-group
+					label.col-sm-3.control-label(for="inputTitle") Movie Name
+					.col-sm-9
+						input#inputTitle.form-control(type="text", name="movie[title]", value=movie.title)
+				.form-group
+					label.col-sm-3.control-label(for="inputCategory") Movie Category
+					.col-sm-9
+						input#inputCategory.form-control(type="text", name="movie[categoryName]", value=movie.categoryName)
+				.form-group
+					label.col-sm-3.control-label Category Choice
+					each cat in categories
+						label.radio-inline
+							if movie._id
+								input(type="radio", name="movie[category]", value=cat._id, checked=cat._id.toString()==movie.category.toString()) 
+							else
+								input(type="radio", name="movie[category]", value=cat._id) 
+							| #{cat.name}
+				.form-group
+					label.col-sm-3.control-label(for="inputDirector") Director
+					.col-sm-9
+						input#inputDirector.form-control(type="text", name="movie[director]", value=movie.director)
+				.form-group
+					label.col-sm-3.control-label(for="inputCountry") Country
+					.col-sm-9
+						input#inputCountry.form-control(type="text", name="movie[country]", value=movie.country)
+				.form-group
+					label.col-sm-3.control-label(for="inputLanguage") Language
+					.col-sm-9
+						input#inputLanguage.form-control(type="text", name="movie[language]", value=movie.language)
+				.form-group
+					label.col-sm-3.control-label(for="inputSummary") Summary
+					.col-sm-9
+						input#inputSummary.form-control(type="text", name="movie[summary]", value=movie.summary)
+				.form-group
+					label.col-sm-3.control-label(for="inputPoster") Poster
+					.col-sm-9
+						input#inputPoster.form-control(type="text", name="movie[poster]", value=movie.poster)
+				.form-group
+					label.col-sm-3.control-label(for="inputVideo") Video
+					.col-sm-9
+						input#inputVideo.form-control(type="text", name="movie[flash]", value=movie.flash)
+				.form-group
+					.col-sm-offset-2.col-sm-10
+						button.btn.btn-default(type="submit") Submit
+	script(src="/js/admin.js")
