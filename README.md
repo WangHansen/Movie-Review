@@ -27,10 +27,10 @@ Practice programming with ExpressJs and MongoDB
 ### Screen Shot
 > the images below are captured from the project 
 
-![Main Page](https://github.com/WangHansen/Movie-Review.git/image/1.png)
-![Detail Page](https://github.com/WangHansen/Movie-Review.git/image/2.png)
-![Movie Management Page](https://github.com/WangHansen/Movie-Review.git/image/3.png)
-![User Management Page](https://github.com/WangHansen/Movie-Review.git/image/4.png)
-![Movie Create Page](https://github.com/WangHansen/Movie-Review.git/image/5.png)
-![Search Result Page](https://github.com/WangHansen/Movie-Review.git/image/6.png)
-![User Sign In Page](https://github.com/WangHansen/Movie-Review.git/image/7.png)
+![Main Page](/images/1.png)
+![Detail Page](/images/2.png)
+![Movie Management Page](/images/3.png)
+![User Management Page](/images/4.png)
+![Movie Create Page](/images/5.png)
+![Search Result Page](/images/6.png)
+![User Sign In Page](/images/7.png)
