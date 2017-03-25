@@ -27,10 +27,23 @@ Practice programming with ExpressJs and MongoDB
 ### Screen Shot
 > the images below are captured from the project 
 
+##### Home Page
 ![Main Page](/images/1.png)
+---
+##### Detail Page
 ![Detail Page](/images/2.png)
+---
+##### Movie Management Page
 ![Movie Management Page](/images/3.png)
+---
+##### User Management Page
 ![User Management Page](/images/4.png)
+---
+##### Movie Create Page
 ![Movie Create Page](/images/5.png)
+---
+##### Search Result Page
 ![Search Result Page](/images/6.png)
+---
+##### User Sign In Page
 ![User Sign In Page](/images/7.png)
